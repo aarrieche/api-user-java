@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.event;
 
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.stereotype.Component;
